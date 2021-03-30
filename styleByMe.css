@@ -25,6 +25,7 @@ main {
 h1 {
   font-size: 2.6em;
   margin-bottom: 60px;
+  text-align: center;
 }
 
 .clockBody {
